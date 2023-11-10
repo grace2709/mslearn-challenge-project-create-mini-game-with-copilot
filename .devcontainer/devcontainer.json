@@ -18,6 +18,7 @@
 				"ms-python.python",
 				"ms-python.vscode-pylance",
 				"github.copilot.advance",
+				"github.copilot.editor.enableAutoCompletions"
 			]
 		}
 	},
